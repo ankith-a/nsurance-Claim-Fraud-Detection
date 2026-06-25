@@ -89,10 +89,10 @@ Implemented and compared multiple classification algorithms for fraud detection.
 
 Typical models include:
 
-- Logistic Regression
+- Support Vector Machine
 - Decision Tree Classifier
 - Random Forest Classifier
-- XGBoost (if applicable)
+- KNeighbors Classifier
 
 ---
 
