@@ -137,7 +137,7 @@ Insurance-Claim-Fraud-Detection/
 │   └── model_comparison.png
 │
 ├── models/
-│   └── fraud_detection_model.pkl
+│   └── decision_tree_model.pkl
 │
 ├── requirements.txt
 │
